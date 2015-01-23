@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viewpoint:DAnalysis xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:exploitation="http://exploitation/1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xmi:id="_ubfysKJJEeSLb5PIqYjx2Q" version="8.1.1">
+  <models xmi:type="exploitation:Exploitation" href="MyExploitation.exploitation#/"/>
+</viewpoint:DAnalysis>

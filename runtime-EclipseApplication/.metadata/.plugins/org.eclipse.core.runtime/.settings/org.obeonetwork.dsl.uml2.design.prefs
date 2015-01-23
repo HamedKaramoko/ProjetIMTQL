@@ -1,0 +1,7 @@
+ExploitationDiagram=true
+eclipse.preferences.version=1
+environmentDiagram=true
+exploitationDiagram=true
+usage_diagrams_preference=exploitationDiagram\=10;environmentDiagram\=2;ExploitationDiagram\=30
+usage_enabled_preference=true
+usage_user_answer_preference=2
